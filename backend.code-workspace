@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Agent project/backend"
+		},
+		{
+			"path": "../Agent project/frontend"
+		},
+		{
+			"path": "../Agent project/scrapers"
+		}
+	]
+}
